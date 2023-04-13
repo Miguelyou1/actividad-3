@@ -5,3 +5,5 @@ let segundoNumero;
 segundoNumero= prompt('introduzca un numero')
 vsuma = parseInt(primerNumero)+parseInt(segundoNumero);
 alert('La suma es '+vsuma)
+vresta = primerNumero-segundoNumero
+alert('La resta es'+vresta)
